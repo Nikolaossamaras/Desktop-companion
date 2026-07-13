@@ -38,4 +38,22 @@ It's a small robot roughly 80x85x40 mm that just keeps you company reacts to you
 <img width="1030" height="720" alt="image" src="https://github.com/user-attachments/assets/620aff17-27ce-4388-b175-b70dc082dc6a" />
 </p>
 
+## Pcb
+
+<p align="center">
+<img width="1267" height="842" alt="image" src="https://github.com/user-attachments/assets/0cbe7e7f-d8b5-4c7e-b996-564fc2df2937" />
+</p>
+
+# Firmware 
+
+the Firmware is the code , but i am not sure if it works cause i dont have the parts on me .
+The code also may be wrong for the same reason .
+
+# Credits
+
+- [Fusion 360](https://fusion-360.en.uptodown.com/windows) – 3D Case Designing
+- [Hack Club](https://hackclub.com/) – For giving me the chance to embark on this project
+- [kicad](https://www.kicad.org/download/) – PCB and Schematic design
+- [Maker_science](https://www.youtube.com/@Maker_science) - The code is borrowed from him as well as the Idea
+
 
