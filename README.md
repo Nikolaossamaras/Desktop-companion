@@ -1,2 +1,41 @@
 # Desktop-companion
-A desktop robot that keeps you company , provides liveliness to your desk
+>A desktop robot that keeps you company , provides liveliness to your desk and keeps you energised to work all day
+
+# Why i build it
+## i wanted to test my skills in pcb making(it was my first time , so feel free to edit the files) and i though that having a small robot on your desk will be super cool
+
+---
+
+# What is it
+
+It's a small robot roughly 80x85x40 mm that just keeps you company reacts to your touch and to any movement that happens on the desk
+
+---
+
+# What you need :
+
+- the pcb , that you can order from pcbway or JLCPCB
+- if you dont want the pcb you can buy the modules by them selves
+- check the BOM in the files to know exactly what you need
+
+|touch module x1|$3.35 for 10 pieces |
+|mpu6050 x1|$4.62 per piece|
+|Wemos D1 Mini ESP32 x1|$6.25  per piece |
+|Screen Module ST7735 SPI Serial 51|5.08$ per piece|
+|total| roughly 20$(idk if the pcb costs more or less , i havent tried)|
+
+# Project preview
+
+## Full companion Design
+
+<p align="center">
+<img width="944" height="713" alt="image" src="https://github.com/user-attachments/assets/670d394b-72b4-4312-993d-f4a94dcbee8a" />
+</p>
+
+## Schematic 
+
+<p align="center">
+<img width="1030" height="720" alt="image" src="https://github.com/user-attachments/assets/620aff17-27ce-4388-b175-b70dc082dc6a" />
+</p>
+
+
