@@ -52,6 +52,11 @@ The code also may be wrong for the same reason .
 ## Code
 [here](https://github.com/Nikolaossamaras/Desktop-companion/blob/main/desktopcompcode.ino) is the link for the code (as i said earlier the code does not fully 100% work)
 
+## Assembly
+
+I have made a plan of assembly not 100% sure if it will work (it should though) . You can follow it if you like (here)[https://github.com/Nikolaossamaras/Desktop-companion/blob/main/PLAN%20for%20desktop%20companion.(assembl.txt] it is
+
+
 # Credits
 
 - [Fusion 360](https://fusion-360.en.uptodown.com/windows) – 3D Case Designing
