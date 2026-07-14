@@ -1,0 +1,21 @@
+PLAN for desktop companion.(assembly)
+
+1st step . 3d print the case 
+2nd step . get the pcb + modules needed
+3rd step . get some jumper wires to connect the screen to the pcb 
+
+1st pin = LED = BL 
+2nd pin = SCK = SCL
+3rd pin = SDA 
+4th pin = A0 =DC
+5th pin = RESET = RST
+6th pin = CS 
+7th pin = GND
+8th pin = 3v3
+
+4th step. connect the touch sensor to the pcb 
+5th step. solder the wemos mini d1 onto the board
+6th step mount the pcb so the screen is faces  the hole(the big one) and the touch sensor the small one on the top. 
+7th step . upload the code to the wemos Board
+8th step. close the case 
+9th step. Test
