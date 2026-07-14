@@ -50,7 +50,7 @@ the Firmware is the code , but i am not sure if it works cause i dont have the p
 The code also may be wrong for the same reason .
 
 ## Code
-[here](https://github.com/Nikolaossamaras/Desktop-companion/blob/main/desktopcompcode.ino) is the link for the code 
+[here](https://github.com/Nikolaossamaras/Desktop-companion/blob/main/desktopcompcode.ino) is the link for the code (as i said earlier the code does not fully 100% work)
 
 # Credits
 
