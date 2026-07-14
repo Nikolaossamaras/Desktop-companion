@@ -54,7 +54,7 @@ The code also may be wrong for the same reason .
 
 ## Assembly
 
-I have made a plan of assembly not 100% sure if it will work (it should though) . You can follow it if you like [here](https://github.com/Nikolaossamaras/Desktop-companion/blob/main/PLAN%20for%20desktop%20companion.(assembl.txt) it is
+I have made a plan of assembly not 100% sure if it will work (it should though) . You can follow it if you like [here](https://github.com/Nikolaossamaras/Desktop-companion/blob/main/PLAN%20for%20desktop%20companion.(assembl.txt ) it is
 
 
 # Credits
