@@ -49,6 +49,9 @@ It's a small robot roughly 80x85x40 mm that just keeps you company reacts to you
 the Firmware is the code , but i am not sure if it works cause i dont have the parts on me .
 The code also may be wrong for the same reason .
 
+## Code
+[here](https://github.com/Nikolaossamaras/Desktop-companion/blob/main/desktopcompcode.ino) is the link for the code 
+
 # Credits
 
 - [Fusion 360](https://fusion-360.en.uptodown.com/windows) – 3D Case Designing
